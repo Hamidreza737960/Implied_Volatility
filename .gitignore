@@ -1,0 +1,41 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook metadata (optional)
+*.nbconvert.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+
+# Temporary/backup files
+*.bak
+*.tmp
+*.swp
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Data (optional - comment out if you want to version it)
+# data/
+# *.csv
+*.pdf
+
+# Large images (optional - keep if needed)
+# figures/
+# *.png
